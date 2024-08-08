@@ -1,0 +1,21 @@
+{
+  "name": "vidcaller",
+  "version": "1.0.0",
+  "description": "This code sample demonstrates a one-to-one and group video call application built with [Video SDK RTC Javascript SDK](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/javascript-sdk)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@videosdk.live/js-sdk": "^0.0.94",
+    "@videosdk.live/react-sdk": "^0.1.98",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "react-player": "^2.16.0"
+  }
+}
