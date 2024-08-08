@@ -1,0 +1,3 @@
+[submodule "client/client/vidcalleer"]
+	path = client/client/vidcalleer
+	url = https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example
